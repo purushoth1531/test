@@ -1,1 +1,1 @@
-Hi git user
+Readme text file
